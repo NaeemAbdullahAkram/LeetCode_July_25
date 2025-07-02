@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/0649-dota2-senate) |
 | [3617-find-the-original-typed-string-i](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/3618-find-the-original-typed-string-ii) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/0649-dota2-senate) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
