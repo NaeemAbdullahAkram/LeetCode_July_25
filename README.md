@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/0649-dota2-senate) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Queue
 |  |
 | ------- |
@@ -42,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Array
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Sorting
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
