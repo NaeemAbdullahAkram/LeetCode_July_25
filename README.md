@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/0649-dota2-senate) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Queue
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 <!---LeetCode Topics End-->
