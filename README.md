@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3618-find-the-original-typed-string-ii](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/2479-meeting-rooms-iii) |
+## Memoization
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
