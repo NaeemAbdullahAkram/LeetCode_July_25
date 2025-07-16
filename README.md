@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/2479-meeting-rooms-iii) |
 ## Memoization
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/NaeemAbdullahAkram/LeetCode_July_25/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
